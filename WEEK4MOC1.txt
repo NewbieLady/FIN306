@@ -8,3 +8,11 @@ Using the indirect method, what is the cash flow from operating activities based
 What is the difference between the direct and indirect method of preparing the cash flow statement?|The direct method reports actual cash inflows and outflows from operating activities, while the indirect method adjusts net income for non-cash items.
 A company has accounts receivable of $50,000 and credit sales of $200,000 for the year. What is the average collection period for accounts receivable? (round to the nearest number)|90 days
 A company has a net profit margin of 8%, an asset turnover of 1.5, and an equity multiplier of 2. What is the return on equity (ROE)?|24%
+What is the difference between a single-step income statement and a multiple-step income statement?|A single-step income statement combines all revenues and expenses into one category, while a multiple-step income statement separates them into several categories.
+What is the difference between continued operations and discontinued operations on an income statement?|Continued operations are ongoing business activities that are expected to continue in the future, while discontinued operations are business activities that have been sold or terminated.
+What is the formula for calculating earnings per share (EPS)?|Net income minus preferred dividends divided by average common shares outstanding
+Which of the following is not a commonly used non-GAAP earnings metric?|Gross Profit Margin
+Using the indirect method, what is the cash flow from operating activities based on the following information? Net income = $15,000 Loss on sale of equipment = $3,500 Increase in accounts receivable = $1,200 Decrease in inventory = $400 Increase in accounts payable = $700|$18,400
+What is the difference between the direct and indirect method of preparing the cash flow statement?|The direct method reports actual cash inflows and outflows from operating activities, while the indirect method adjusts net income for non-cash items.
+A company has accounts receivable of $50,000 and credit sales of $200,000 for the year. What is the average collection period for accounts receivable? (round to the nearest number)|90 days
+A company has a net profit margin of 8%, an asset turnover of 1.5, and an equity multiplier of 2. What is the return on equity (ROE)?|24%
