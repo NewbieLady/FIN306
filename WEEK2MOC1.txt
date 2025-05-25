@@ -8,3 +8,13 @@ Which of the following statements best describes a non-adjusted trial balance?|I
 Which of the following statements is true about closing entries in accounting?|Closing entries transfer net income or loss to the retained earnings account.
 Which of the following is an example of an item that may be included in the statement of comprehensive income?|Unrealized gains in available for sale investments
 Which of the following is an example of a permanent asset account in the accounting process?|Prepaid rent
+Which of the following is an example of an accounting process?|Calculating payroll taxes for employees
+Which of the following best describes a T-account?|A graphical representation of debits and credits for a specific account
+What is the purpose of an adjusting entry in the accounting process?|To update accounts to their proper amounts for financial reporting
+Company X's retained earnings balance at the end of 2024 was $60,000. During that year, the company paid out $10,000 in dividends and had a net income of $25,000. What was the company's retained earnings balance at the beginning of 2024?|$45,000
+If a company borrows money from a bank, how does this transaction affect the company's liabilities and assets?|Liabilities and assets both increase
+Which of the following best describes the revenue recognition concept in accounting?|Recognizing revenue when it is earned, regardless of when payment is received
+Which of the following statements best describes a non-adjusted trial balance?|It is prepared before any adjusting entries are made
+Which of the following statements is true about closing entries in accounting?|Closing entries transfer net income or loss to the retained earnings account.
+Which of the following is an example of an item that may be included in the statement of comprehensive income?|Unrealized gains in available for sale investments
+Which of the following would be considered a permanent account?|Prepaid expenses
